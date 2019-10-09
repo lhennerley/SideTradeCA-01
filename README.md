@@ -19,8 +19,9 @@ For those of you who are new to coding for this course, GIT is what we know in t
 
 ### Installing GIT on Mac
 
-1. Install homebrew: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-2. Run: `brew install git`
+1. Open Terminal
+2. Run: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+3. Run: `brew install git`
 
 ### Cloning this repository
 
