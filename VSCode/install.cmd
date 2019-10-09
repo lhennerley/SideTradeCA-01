@@ -23,3 +23,4 @@ code --install-extension natewallace.angular2-inline
 code --install-extension nrwl.angular-console
 code --install-extension PKief.material-icon-theme
 code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension doggy8088.netcore-extension-pack

@@ -16,6 +16,7 @@ code --install-extension johnpapa.angular-essentials
 code --install-extension johnpapa.Angular2
 code --install-extension Leopotam.csharpfixformat
 code --install-extension Mikael.Angular-BeastCode
+code --install-extension doggy8088.netcore-extension-pack
 code --install-extension ms-vscode.csharp
 code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension msjsdiag.debugger-for-chrome
