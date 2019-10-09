@@ -13,9 +13,10 @@ For those of you who are new to coding for this course, GIT is what we know in t
 
 ### Installing GIT on Windows
 
-1. Open a administrative Powershell window
-2. Run: `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
-3. Run: `choco install git.install`
+1. Setup a Github account
+2. Open a administrative Powershell window
+3. Run: `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
+4. Run: `choco install git.install`
 
 ### Installing GIT on Mac
 
@@ -42,6 +43,7 @@ For those of you who are new to coding for this course, GIT is what we know in t
 2. Connect as per connection details in your invitation
 3. Open [the candidate setup script](Postgres/candidate_setup.sql)
 4. Replace `$YourName$` with your full name
+5. Replace `$YourGithubUsername$` with your @githubname
 5. Execute the script
 6. Post a message in the #postgres channel with the following message, with your candidate number:
 
