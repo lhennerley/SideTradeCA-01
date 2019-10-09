@@ -1,6 +1,6 @@
 # SideTradeCA-01
 
-Welcome to the Code Academy.
+This is a part one of the [SideTrade Code Academy](https://www.sidetrade.com/press-release/2019/launch-of-the-sidetrades-code-academy-in-the-midlands)
 
 This repository has been created to get you set up and ready for your first training day.
 
