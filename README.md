@@ -38,7 +38,7 @@ For those of you who are new to coding for this course, GIT is what we know in t
 
 1. Open Azure Data Studio
 2. Connect as per connection details in your invitation
-3. Open [the Candidate Setup File](Postgres/Candidate Setup.sql)
+3. Open [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 4. Post a message in the #postgres channel with the following message, with your candidate number:
 
 > My candidate number is X
