@@ -33,12 +33,14 @@ For those of you who are new to coding for this course, GIT is what we know in t
 
 1. Install VSCode (https://code.visualstudio.com/)
 2. Install Azure Data Studio (https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017)
+3. Open the repository in VSCode
+4. Run appropriate script in the VSCode terminal
 
 ### Postgres Setup
 
 1. Open Azure Data Studio
 2. Connect as per connection details in your invitation
-3. Open [the candidate setup script](Postgres/Candidate_Setup.sql)
+3. Open [the candidate setup script](Postgres/candidate_setup.sql)
 4. Replace `$YourName$` with your full name
 5. Execute the script
 6. Post a message in the #postgres channel with the following message, with your candidate number:
