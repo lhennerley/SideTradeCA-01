@@ -24,7 +24,7 @@ For those of you who are new to coding for this course, GIT is what we know in t
 
 ### Cloning this repository
 
-1. Create a directory where you want to home your code (such as `/Code/SideTradeCodeAcdemy`)
+1. Create a directory where you want to home your code (such as `/Code/SideTradeCodeAcademy`)
 2. Open a terminal/command prompt and cd to the directory in 1.
 3. Run: `git clone https://github.com/lhennerley/SideTradeCA-01.git`
 
