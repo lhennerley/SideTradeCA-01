@@ -16,7 +16,7 @@ Install git here: https://git-scm.com/downloads
 ## 2. Cloning this repository
 
 1. Create a directory where you want to home your code (such as `/Code/SideTradeCodeAcademy`)
-2. Open a terminal/command prompt and cd to the directory in 1.
+2. Open a terminal/command prompt and cd to the directory you created in point 1
 3. Run: `git clone https://github.com/lhennerley/SideTradeCA-01.git`
 
 ## 3. Install Integrated Development Environments
