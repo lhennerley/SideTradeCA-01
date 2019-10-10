@@ -30,7 +30,7 @@ For those of you who are new to coding for this course, GIT is what we know in t
 2. Open a terminal/command prompt and cd to the directory in 1.
 3. Run: `git clone https://github.com/lhennerley/SideTradeCA-01.git`
 
-### 3. Install Integrated Development Environments
+## 3. Install Integrated Development Environments
 
 1. Install VSCode (https://code.visualstudio.com/)
 2. Install Azure Data Studio (https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017)
@@ -40,7 +40,7 @@ For those of you who are new to coding for this course, GIT is what we know in t
    * Windows: `.\VSCode\install.ps1`
    * Mac: `sudo sh VSCode/install.sh`
 
-### 4. Postgres Setup
+## 4. Postgres Setup
 
 1. Open Azure Data Studio
 2. Open the extensions button on the left pannel 
