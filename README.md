@@ -11,22 +11,7 @@ For those of you who are new to coding for this course, GIT is what we know in t
 * A repository is simply a folder of code, which can be hosted in the cloud (like we are doing here with Github) where changes by individuals are tracked over time
 * `git clone` is just a way for you to get a copy of a repository onto your computer
 
-### Installing from Git page
-
-https://git-scm.com/downloads
-
-### Installing GIT with Windows using CMD
-
-1. Setup a Github account
-2. Open a administrative Powershell window
-3. Run: `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
-4. Run: `choco install git.install`
-
-### Installing GIT on Mac OSX using Terminal
-
-1. Open Terminal
-2. Run: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-3. Run: `brew install git`
+Install git here: https://git-scm.com/downloads
 
 ## 2. Cloning this repository
 
