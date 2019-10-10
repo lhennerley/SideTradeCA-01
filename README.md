@@ -32,12 +32,12 @@ Install git here: https://git-scm.com/downloads
 ## 4. Postgres Setup
 
 1. Open Azure Data Studio
-2. Open the extensions button on the left pannel 
-2. Connect as per connection details in your invitation
-3. Open [the candidate setup script](Postgres/candidate_setup.sql)
-4. Replace `$YourName$` with your full name
-5. Replace `$YourGithubUsername$` with your @githubname
-5. Execute the script
-6. Post a message in the #postgres channel with the following message, with your candidate number:
+2. Install the [postgres extension](https://docs.microsoft.com/en-us/sql/azure-data-studio/postgres-extension?view=sql-server-2017)
+3. Connect as per connection details in your invitation
+4. Open [the candidate setup script](Postgres/candidate_setup.sql)
+5. Replace `$YourName$` with your full name
+6. Replace `$YourGithubUsername$` with your @githubname
+7. Execute the script
+8. Post a message in the #postgres channel with the following message, with your candidate number:
 
 > My candidate number is X
