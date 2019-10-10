@@ -4,7 +4,7 @@ This is a part one of the [SideTrade Code Academy](https://www.sidetrade.com/pre
 
 This repository has been created to get you set up and ready for your first training day.
 
-## Introduction to GIT
+## 1. GIT
 
 For those of you who are new to coding for this course, GIT is what we know in the industry as a Version Control System - it's a lot less scary than it sounds! For now, the only explanation you need is that it's a way for us to share code between one and other. The two concepts you will be introduced to at this stage are `repository` and `clone`.
 
@@ -24,22 +24,26 @@ For those of you who are new to coding for this course, GIT is what we know in t
 2. Run: `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 3. Run: `brew install git`
 
-### Cloning this repository
+## 2. Cloning this repository
 
 1. Create a directory where you want to home your code (such as `/Code/SideTradeCodeAcademy`)
 2. Open a terminal/command prompt and cd to the directory in 1.
 3. Run: `git clone https://github.com/lhennerley/SideTradeCA-01.git`
 
-### Install Integrated Development Environments
+### 3. Install Integrated Development Environments
 
 1. Install VSCode (https://code.visualstudio.com/)
 2. Install Azure Data Studio (https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-2017)
 3. Open the repository in VSCode
-4. Run appropriate script in the VSCode terminal
+4. Click terminal & new terminal
+4. In your terminal, run:
+   * Windows: `.\VSCode\install.ps1`
+   * Mac: `sudo sh VSCode/install.sh`
 
-### Postgres Setup
+### 4. Postgres Setup
 
 1. Open Azure Data Studio
+2. Open the extensions button on the left pannel 
 2. Connect as per connection details in your invitation
 3. Open [the candidate setup script](Postgres/candidate_setup.sql)
 4. Replace `$YourName$` with your full name
